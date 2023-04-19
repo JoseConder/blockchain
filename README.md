@@ -26,7 +26,7 @@ Puedes clonar el repositorio en el apartado especifico de code o puedes descarga
 
 Una vez que cuentes con el repositorio clonado o con los archivos en una carpeta especifica de tu preferencia, tiene que correr el archivo main a traves de node de la siguiente forma:
 
-node main.js
+      node main.js
 
 Built With
 
